@@ -9,8 +9,8 @@ A color scheme as colorful as the ocean. Enjoy the sweet aroma of the sea.
 
 ## Color Palletes
 *Pastel Color Pallete*
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/57213270/115197505-ada7c700-a10e-11eb-9972-d2fc9a611f64.png">
+<p>
+  <img src="https://user-images.githubusercontent.com/57213270/115197505-ada7c700-a10e-11eb-9972-d2fc9a611f64.png" width="400px" height="400px">
 </p>
 
 Hex Codes:
