@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/57213270/116053742-a34e7580-a698-11eb-8a35-803a27031bb0.png">
+  <img src="https://user-images.githubusercontent.com/57213270/116054683-8cf4e980-a699-11eb-8205-1ff6f9ed27a4.png">
 </p>
 
 <h1 align="center">Welcome to the Aquarium!</h1>
