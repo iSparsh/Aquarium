@@ -3,8 +3,7 @@
 </p>
 
 <h1 align="center">Welcome to the Aquarium!</h1>
-<hr>
-<p>
+<p align="center">
   A new, pastel theme for the modular, calm, and fresh person.
 </p>
 <h2 align="center">The Colors</h2> 
