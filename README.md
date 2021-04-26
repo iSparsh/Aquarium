@@ -1,10 +1,10 @@
-# Aquarium
-A color scheme as colorful as the ocean. Enjoy the sweet aroma of the sea.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57213270/116053742-a34e7580-a698-11eb-8a35-803a27031bb0.png">
+</p>
 
-## Highlights
-
-- Pastel, so you don't have to gouge your eyes from the contrast
-- Sexy, so your setup looks good on r/unixporn
-- Modular, so it works on everything
-
-> Repo coming soon.. maybe.
+<h1 align="center">Welcome to the Aquarium!</h1>
+<hr>
+<p>
+  A new, pastel theme for the modular, calm, and fresh person.
+</p>
+<h2 align="center">The Colors</h2> 
